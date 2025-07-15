@@ -25,5 +25,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+### Contributions
+![snake gif](https://github.com/Sashaktsaxena/Sashaktsaxena/blob/output/github-contribution-grid-snake.svg)
+
 
 
