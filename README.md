@@ -80,10 +80,10 @@ Hi there! I'm **Sashakt Saxena **, a passionate full-stack developer with a deep
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Sashaktsaxena/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/AyushRaj_003"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/Sashaktsaxena"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="mailto:ayushrajsai@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sashakt-saxena-99522a265"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Sashy1012"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/Sashy2017"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="mailto:sashaktsaxena2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
